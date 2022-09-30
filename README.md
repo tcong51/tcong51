@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcong51&label=Profile%20views&color=0e75b6&style=flat" alt="tcong51" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tcong51" alt="tcong51" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Science at Can Tho University**
 
