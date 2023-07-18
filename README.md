@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Computer Science at Can Tho University**
 
-- 📫 How to reach me **tcong091999@gmail.com**
+- 📫 How to reach me **tcong91999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
